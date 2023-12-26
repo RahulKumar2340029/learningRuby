@@ -34,7 +34,5 @@ class Account
     end
   end
   
-  checking_account = Account.new("Rahul", 12000)
-  checking_account.withdraw(1234,1000)
-  checking_account.display_balance(1234)
+  
   
